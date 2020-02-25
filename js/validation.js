@@ -1,6 +1,6 @@
 function validateForm1() {
-  var a = document.forms["login_form"]["username"].value;
-  var b = document.forms["login_form"]["psw"].value;
+  var a = document.forms["loginform"]["username"].value;
+  var b = document.forms["loginform"]["psw"].value;
 
   if (a == "" || b == "") {
     alert("Fields cannot be empty");
@@ -36,7 +36,7 @@ function validateForm2() {
     return false;	  	
   }
   else {
-    alert("You are now Signed-up in")
+    alert("You are now Signed-up")
     return true;
   }  
 }
