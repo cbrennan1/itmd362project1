@@ -57,7 +57,7 @@ body {
   }
   @media(min-width:768px) {
     body {
-        margin: 10 20px;
+        margin: 10px 20px;
         background-color: #800080;
     }
     #login {
@@ -94,7 +94,7 @@ body {
       }
       #box {
         width: 1300px;
-        height: 55x;
+        height: 55px;
         background: #800080;
         margin-top: -60px;
         margin-left: -50px;
@@ -118,7 +118,7 @@ body {
     }
     @media (min-width: 1200px) {
         body {
-            margin: 10 30px;
+            margin: 10px 30px;
             background-color: #800080;
             width: 1200px;
         }
