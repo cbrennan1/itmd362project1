@@ -56,9 +56,123 @@ body {
     margin-top: 20px;
   }
   @media(min-width:768px) {
-      body {
-          margin: 10px 20px;
-          background-color: #800080
+    body {
+        margin: 10 20px;
+        background-color: #800080;
+    }
+    #login {
+        margin-left: 100px;
+        margin-top: -10px;
       }
-      #
-  }
+      input {
+        border-radius: 4px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+      }
+      
+      h1 {
+        font-size: 2.6em;
+        margin-top: -20px;
+      }
+      
+      p {
+        font-size: 2.0em;
+        text-align: justify;
+        font-family: 'Lato', sans-serif;
+      }
+      #signup {
+        display: block;  
+        width: 40%;
+        height: 650px;
+        box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+        background: #ffff00;
+        padding: 20px;
+        text-align: left;
+        float: right;
+        margin-top: 20px;
+      }
+      #box {
+        width: 1300px;
+        height: 55x;
+        background: #800080;
+        margin-top: -60px;
+        margin-left: -50px;
+      }
+      #Mamba{
+        width: 90px;
+        height: 90px;
+        float: left;
+        margin-right: 20px;
+        border-radius: 50%
+      }
+      .size {
+        width: 80px;
+      }
+      .size2 {
+        width: 100%;
+      }
+      #information {
+        margin-top: 20px;
+      }
+    }
+    @media (min-width: 1200px) {
+        body {
+            margin: 10 30px;
+            background-color: #800080;
+            width: 1200px;
+        }
+        #login {
+            margin-right: 60px;
+            margin-top: -10px;
+          }
+          input {
+            border-radius: 4px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 10px;
+          }
+          
+          h1 {
+            font-size: 3.6em;
+            margin-top: -20px;
+          }
+          
+          p {
+            font-size: 3.0em;
+            text-align: justify;
+            font-family: 'Lato', sans-serif;
+          }
+          #signup {
+            width: 50%;
+            height: 700px;
+            box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+            background: #ffff00;
+            padding: 20px;
+            text-align: left;
+            float: right;
+            margin-top: 10px;
+          }
+          #box {
+            width: 1300px;
+            height: 90px;
+            background: #800080;
+            margin-top: -60px;
+            margin-left: -50px;
+          }
+          #Mamba{
+            width: 90px;
+            height: 90px;
+            float: left;
+            margin-right: 20px;
+            border-radius: 50%
+          }
+          .size {
+            width: 80px;
+          }
+          .size2 {
+            width: 100%;
+          }
+          #information {
+            margin-top: 20px;
+          }
