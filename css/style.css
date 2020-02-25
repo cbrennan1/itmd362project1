@@ -39,3 +39,9 @@ body {
     margin-top: -60px;
     margin-left: -50px;
   }
+  .size {
+    width: 80px;
+  }
+  .size2 {
+    width: 100%;
+  }
