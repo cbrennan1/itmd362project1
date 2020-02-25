@@ -23,11 +23,11 @@ body {
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
-  #sign-up {
+  #signup {
     width: 70%;
     height: 505px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
-    background: #f5f7fe;
+    background: #ffff00;
     padding: 20px;
     text-align: left;
     margin-top: 10px;
@@ -51,4 +51,14 @@ body {
   }
   .size2 {
     width: 100%;
+  }
+  #information {
+    margin-top: 20px;
+  }
+  @media(min-width:768px) {
+      body {
+          margin: 10px 20px;
+          background-color: #800080
+      }
+      #
   }
