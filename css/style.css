@@ -23,3 +23,19 @@ body {
     text-align: justify;
     font-family: 'Lato', sans-serif;
   }
+  #sign-up {
+    width: 70%;
+    height: 505px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #f5f7fe;
+    padding: 20px;
+    text-align: left;
+    margin-top: 10px;
+  }
+  #box {
+    width: 1300px;
+    height: 90px;
+    background: #00c9de;
+    margin-top: -60px;
+    margin-left: -50px;
+  }
