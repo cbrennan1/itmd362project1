@@ -44,7 +44,7 @@ body {
     height: 90px;
     float: left;
     margin-right: 20px;
-    border-radius: 50%
+    border-radius: 70%
   }
   .size {
     width: 80px;
@@ -118,7 +118,7 @@ body {
     }
     @media (min-width: 1200px) {
         body {
-            margin: 10px 30px;
+            margin: 10pxgsk   30px;
             background-color: #800080;
             width: 1200px;
         }
